@@ -1,4 +1,4 @@
-# ⚡ TaskPulse — Team Task Manager
+#  TaskPulse — Team Task Manager
 
 > A production-grade full-stack SaaS application for managing teams,
 > projects, and tasks with role-based access control.
@@ -9,8 +9,8 @@
 ![Deploy](https://img.shields.io/badge/Deploy-Railway-purple)
 
 ## 🔗 Live Demo
-- **Frontend:** [https://teamflow-ebon.vercel.app](https://teamflow-ebon.vercel.app)
-- **Backend API:** [https://teamflow-production-eddc.up.railway.app](https://teamflow-production-eddc.up.railway.app)
+- **Frontend:** https://full-stack-navy-six.vercel.app
+- **Backend API:** https://noble-beauty-production.up.railway.app
 - **Test Admin:** admin@test.com / Admin@123456
 - **Test Member:** member@test.com / Member@123456
 
