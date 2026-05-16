@@ -49,6 +49,11 @@ app.get('/health', (req, res) => {
   res.json({ status: 'ok', time: new Date().toISOString() });
 });
 
+// Add this right here! 👇
+app.get('/', (req, res) => {
+  res.send('TaskPulse API is live and running on Railway! 🚀');
+});
+
 app.use('*', (req, res) => {
   res.status(404).json({ success: false, message: `Route ${req.originalUrl} not found` });
 });
